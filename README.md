@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- *FIRST SEMESTER CS STUDENT HERE*
 - 🔭 I’m currently working on Operating System for a ARM32 (might take a while)
 - 🌱 I’m currently learning C & Full Stack
 - 🤔 I’m looking for help with everything

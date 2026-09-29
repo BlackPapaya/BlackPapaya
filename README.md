@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - ⚡ Fun fact: I have a pet snake
 Cyber Security & Low-Level (C/C++), ML (Python), Full-Stack (Java, JS) • CS Student at TH Augsburg
+
 -->

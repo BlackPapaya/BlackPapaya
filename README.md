@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-- *FIRST SEMESTER CS STUDENT HERE*
+- *CS STUDENT HERE*
 - 🔭 I’m currently working on Operating System for a ARM32 (might take a while)
-- 🌱 I’m currently learning C & Full Stack
-- 🤔 I’m looking for help with everything
-- 💬 Ask me about anything
-- 📫 How to reach me: 
+- 🌱 I’m currently learning C, C++ & Full Stack, Java and Python
+- 🤔 I’m looking for help with embedded Systems
+- 💬 Ask me about anything 
 - ⚡ Fun fact: I have a pet snake
+- 
 - Cyber Security & Low-Level (C/C++), ML (Python), Full-Stack (Java, JS) • CS Student at TH Augsburg
 
 <!--

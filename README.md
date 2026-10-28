@@ -7,7 +7,8 @@
 - 💬 Ask me about anything 
 - ⚡ Fun fact: I have a pet snake
 - 
-- Cyber Security & Low-Level (C/C++), ML (Python), Full-Stack (Java, JS) • CS Student at TH Augsburg
+-Robotics and AI Student at TH Augsburg
+
 
 <!--
 **BlackPapaya/BlackPapaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
